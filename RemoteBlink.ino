@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
 #define pinLed D6
-String ssid     = "TU RED";
+String ssid     = "Menjivar Andrade";
 String password = "TU PASS";
 WiFiServer server(80); //objeto de la clase WiFiServer
 int estado = 0;
